@@ -6,7 +6,7 @@ ammo and time runs out otherwise you are dead. You can only shoot one lion per s
 
 Create a function that predict the results which takes in the number of lions, the time you have and number of ammo.
 If you die, it will return "Sorry!, you are dead, you've run out of ammo" or "Sorry!, you are dead, you've run of time "
-If you surive, it will return "Congratulations! you survived!"\*/
+If you surive, it will return "Congratulations! you survived!"
 
 The function starts with:
 
