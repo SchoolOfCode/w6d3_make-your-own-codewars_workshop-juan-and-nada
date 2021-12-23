@@ -1,6 +1,11 @@
-1 scenario: 
+export function lionAttack(ammo, time, numberOfLions){
+    if (ammo>= numberOfLions && time >= numberOfLions){
+        return "Congratulations! you survived!"}
+    if(ammo < numberOfLions){
+        return "Sorry!, you are dead, you've run out of ammo"}
+    if (time < numberOfLions){
+        return "Sorry!, you are dead, you've run of time "
+}}
 
-you are being attack by lions
-rifle with ammo
-number of lions 
-another paramete could be time or distance (integer)
+
+
