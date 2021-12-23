@@ -1,5 +1,7 @@
-/* 
-👉 Write your kata here!
-*/
+//Solution 
 
-//👉 Write the function your CodeWarriors will start with below here:
+export function lionAttack(ammo, time, numberOfLions){
+}
+
+
+
